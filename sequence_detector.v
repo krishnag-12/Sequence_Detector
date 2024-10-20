@@ -1,12 +1,3 @@
-/*
-# Team ID:          1926
-# Theme:            EcoMender Bot
-# Author List:      Pavan Pai, Nirvara Reddy
-# Filename:         sequence_detector
-# File Description: Verilog code for Sequence Detector
-# Global variables: None
-*/
-
 // Verilog code for Sequence Detector
 module sequence_detector (
     input clock,
