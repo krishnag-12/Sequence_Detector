@@ -1,4 +1,4 @@
-# 1094_Sequence_Detector
+# 1094 Sequence Detector
 # Purpose:
 
 Detects the sequence "1094" within a stream of 4-bit numbers.
